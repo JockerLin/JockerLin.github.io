@@ -211,11 +211,11 @@
 <h2 id="2-分支管理"><a href="#2-分支管理" class="headerlink" title="2. 分支管理"></a>2. 分支管理</h2><p>$ git checkout – readme.txt 撤銷修改</p>
 <p>$ git reset HEAD file 把暫存區的修改撤銷掉，用於$ git add後，想要撤銷到工作區</p>
 <p>$ rm test.txt刪除文件 後①從版本庫中刪除 $ git rm test.txt 或②把誤刪的文件恢復到最新版本 $ git checkout – test.txt</p>
-<p>github<br>$ git remote add origin <a href="mailto:&#x67;&#x69;&#116;&#64;&#x67;&#x69;&#x74;&#104;&#117;&#98;&#46;&#x63;&#111;&#109;">&#x67;&#x69;&#116;&#64;&#x67;&#x69;&#x74;&#104;&#117;&#98;&#46;&#x63;&#111;&#109;</a>:JockerLin&#x2F;learngit.git關聯我的遠程庫</p>
+<p>github<br>$ git remote add origin <a href="mailto:&#103;&#105;&#116;&#x40;&#x67;&#105;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#111;&#x6d;">&#103;&#105;&#116;&#x40;&#x67;&#105;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#111;&#x6d;</a>:JockerLin&#x2F;learngit.git關聯我的遠程庫</p>
 <p>$ git pull –base origin master</p>
 <p>$ git push -u origin master首次推送master分支的內容</p>
 <p>$ git push origin master以後同步推送最新修改</p>
-<p>$ git clone <a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#105;&#x74;&#104;&#117;&#98;&#x2e;&#x63;&#111;&#109;">&#x67;&#x69;&#116;&#64;&#103;&#105;&#x74;&#104;&#117;&#98;&#x2e;&#x63;&#111;&#109;</a>:JockerLin&#x2F;xx(倉庫名).git從雲端遠程庫同步到本地</p>
+<p>$ git clone <a href="mailto:&#103;&#105;&#116;&#64;&#103;&#105;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#111;&#109;">&#103;&#105;&#116;&#64;&#103;&#105;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#111;&#109;</a>:JockerLin&#x2F;xx(倉庫名).git從雲端遠程庫同步到本地</p>
 <p>$ git branch 查看分支</p>
 <p>$ git branch <name> 創建分支</p>
 <p>$ git checkout <name> 切換分支</p>
@@ -236,7 +236,7 @@
 <p>錯誤修改 git add .</p>
 <h2 id="5-遠程庫管理"><a href="#5-遠程庫管理" class="headerlink" title="5. 遠程庫管理"></a>5. 遠程庫管理</h2><p>$ git remote -v  查看遠程庫信息<br>$ git remote rm origin  刪除已有的遠程庫</p>
 <p>創建刪除新用戶<br>$ sudo adduser xxx 在home目錄下添加一個賬號<br>$ sudo useradd xxx 僅添加普通用戶，不會再home目錄下添加賬號<br>$ sudo useadd -g root 用戶名 &#x2F;* 讓剛剛建立的用戶劃分到root權限組下<br>$ sudo usedel -r newuser 刪除名爲newuser的用戶</p>
-<p>每个机器都必须自报家门：你的名字和Email地址。你也许会担心，如果有人故意冒充别人怎么办？这个不必担心，首先我们相信大家都是善良无知的群众，其次，真的有冒充的也是有办法可查的。<br>$ config –global user.name “Your Name”<br>$ git config –global user.email “<a href="mailto:&#x65;&#109;&#97;&#x69;&#108;&#x40;&#x65;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#46;&#x63;&#x6f;&#109;">&#x65;&#109;&#97;&#x69;&#108;&#x40;&#x65;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#46;&#x63;&#x6f;&#109;</a>“<br>注意git config的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址。</p>
+<p>每个机器都必须自报家门：你的名字和Email地址。你也许会担心，如果有人故意冒充别人怎么办？这个不必担心，首先我们相信大家都是善良无知的群众，其次，真的有冒充的也是有办法可查的。<br>$ config –global user.name “Your Name”<br>$ git config –global user.email “<a href="mailto:&#x65;&#x6d;&#x61;&#105;&#x6c;&#64;&#x65;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x2e;&#99;&#x6f;&#109;">&#x65;&#x6d;&#x61;&#105;&#x6c;&#64;&#x65;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x2e;&#99;&#x6f;&#109;</a>“<br>注意git config的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址。</p>
 <p>$ git remote show origin 查看远程库的origin的信息</p>
 <p>$ git branch -a 查看本地所有分支，红色部分为远程库在本地的copy版本</p>
 <p>$ git remote prune origin 更新本地上的远程库版本（删除不存在的分支）</p>
