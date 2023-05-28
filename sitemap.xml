@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jockerlin.github.io/2023/05/28/Hexo%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jockerlin.github.io/2023/05/27/%E6%95%B4%E5%90%88/</loc>
     
     <lastmod>2023-05-27</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://jockerlin.github.io/2023/05/27/imgprocess/</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
     
     <lastmod>2023-05-27</lastmod>
     
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://jockerlin.github.io/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
