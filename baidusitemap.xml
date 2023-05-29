@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
+    <loc>https://jockerlin.github.io/2023/05/28/Hexo%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2023-05-29</lastmod>
   </url>
   <url>
-    <loc>https://jockerlin.github.io/2023/05/28/Hexo%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://jockerlin.github.io/2023/05/27/imgprocess/</loc>
+    <lastmod>2023-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
     <lastmod>2023-05-29</lastmod>
   </url>
   <url>
@@ -22,10 +26,6 @@
   </url>
   <url>
     <loc>https://jockerlin.github.io/2023/05/27/machine_learning/</loc>
-    <lastmod>2023-05-27</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/imgprocess/</loc>
     <lastmod>2023-05-27</lastmod>
   </url>
   <url>
