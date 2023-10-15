@@ -1,60 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jockerlin.github.io/2023/08/31/c++move%E7%94%A8%E6%B3%95/</loc>
-    <lastmod>2023-09-02</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/08/31/%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%9F%E6%9F%A5/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <loc>https://jockerlin.github.io/2023/05/27/%E6%95%B4%E5%90%88/</loc>
+    <lastmod>2023-10-14</lastmod>
   </url>
   <url>
     <loc>https://jockerlin.github.io/2023/07/01/%E6%95%B0%E6%8D%AE%E6%8B%9F%E5%90%88%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2023-07-01</lastmod>
+    <lastmod>2023-10-14</lastmod>
   </url>
   <url>
-    <loc>https://jockerlin.github.io/2023/05/29/c++%E7%BA%BF%E7%A8%8B%E7%94%A8%E6%B3%95/</loc>
-    <lastmod>2023-07-01</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/06/17/c++%E5%B9%B6%E8%A1%8C%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</loc>
-    <lastmod>2023-06-17</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/06/17/c++%E4%BD%BF%E7%94%A8pdb%E4%BF%A1%E6%81%AF%E5%A4%8D%E7%8E%B0%E5%B4%A9%E6%BA%83%E4%BD%8D%E7%BD%AE/</loc>
-    <lastmod>2023-06-17</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/28/Hexo%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
-    <lastmod>2023-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/machine_learning/</loc>
-    <lastmod>2023-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/%E6%95%B4%E5%90%88/</loc>
-    <lastmod>2023-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/imgprocess/</loc>
-    <lastmod>2023-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jockerlin.github.io/2023/05/27/git_skills/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <loc>https://jockerlin.github.io/2023/08/31/%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%9F%E6%9F%A5/</loc>
+    <lastmod>2023-10-14</lastmod>
   </url>
   <url>
     <loc>https://jockerlin.github.io/2023/06/11/c++%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B(VS&QT)/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2023-10-14</lastmod>
   </url>
   <url>
     <loc>https://jockerlin.github.io/2023/06/11/PC%E8%B0%83%E7%94%A8NVIDIA%E6%98%BE%E5%8D%A1%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/machine_learning/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/imgprocess/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/28/Hexo%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/calibration/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/10/15/c++%E5%BC%82%E5%B8%B8%E6%8D%95%E8%8E%B7/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/29/c++%E7%BA%BF%E7%A8%8B%E7%94%A8%E6%B3%95/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/06/17/c++%E4%BD%BF%E7%94%A8pdb%E4%BF%A1%E6%81%AF%E5%A4%8D%E7%8E%B0%E5%B4%A9%E6%BA%83%E4%BD%8D%E7%BD%AE/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/06/17/c++%E5%B9%B6%E8%A1%8C%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/08/31/c++move%E7%94%A8%E6%B3%95/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/10/15/c++forward%E7%94%A8%E6%B3%95/</loc>
+    <lastmod>2023-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jockerlin.github.io/2023/05/27/git_skills/</loc>
+    <lastmod>2023-10-14</lastmod>
   </url>
   <url>
     <loc>https://jockerlin.github.io/2023/05/27/hello-world/</loc>
